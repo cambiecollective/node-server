@@ -11,7 +11,7 @@ Simple Node/Express app which listens on port 3000 and returns 'Hello World!!!'
 2. Get the dependencies for the project by using: (inside the cloned directory) 
     ```
     npm install
-    ````
+    ```
 3. Then to run the app just simply run:
     ```
     npm start
